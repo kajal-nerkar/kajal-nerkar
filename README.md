@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @kajal-nerkar
 - 👀 I’m DevOps Engineer 
-- 🌱DevOps Enthusiasti 
+- 🌱DevOps Enthusiast
+- DevOps Tech Lead || Gitlab CI\CD | Python | Docker | Kubernetes | CI/CD | Cloud | Config Management & Automation
 
 <!---
 kajal-nerkar/kajal-nerkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
